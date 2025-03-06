@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there! 👋 I'm Balaji Mahendra 
 
-<!--
-**NameRectified/NameRectified** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me  
+I'm a **sophomore majoring in Artificial Intelligence and Machine Learning**. I enjoy both **web development** and **research**, and I'm still exploring to see which one truly aligns with my passion.  
 
-Here are some ideas to get you started:
+For me, **learning > money**, and I always look for opportunities that provide valuable **hands-on experience**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning  
+- **JavaScript** – Improving my web development skills  
+- **Convolutional Neural Networks (CNNs)** – Exploring deep learning in Computer Vision  
+
+## 🚀 What I’m Looking For  
+- Exciting **collaborations** on AI/ML or web development projects  
+- Opportunities that challenge me and help me grow  
+- **Volunteer work** for non-profits where I can contribute my skills  
+
+## 📫 Let’s Connect!  
+Feel free to reach out—I'm always open to discussing new ideas and working on impactful projects!  
+
+📧 **Email:** balajimahendrajakka@gmail.com  
+**Discord:** masterofuniverse_
