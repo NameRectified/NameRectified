@@ -7,7 +7,7 @@ For me, **learning > money**, and I always look for opportunities that provide v
 
 ## 📚 Currently Learning  
 - **JavaScript** – Improving my web development skills  
-- **Convolutional Neural Networks (CNNs)** – Exploring deep learning in Computer Vision  
+- **Diffusion models** – Exploring the use of diffusion models in various Computer Vision tasks  
 
 ## 🚀 What I’m Looking For  
 - Exciting **collaborations** on AI/ML or web development projects  
