@@ -1,7 +1,7 @@
 # Hi there!  I'm Balaji Mahendra 
 
 ## About Me  
-I'm a **sophomore majoring in Artificial Intelligence and Machine Learning**. I enjoy both **web development** and **research**, and I'm still exploring to see which one truly aligns with my passion.  
+I'm in my junior year **majoring in Artificial Intelligence and Machine Learning**. I enjoy both **web development** and **research**, and I'm still exploring to see which one truly aligns with my passion.  
 
 For me, **learning > money**, and I always look for opportunities that provide valuable **hands-on experience**.  
 
