@@ -1,22 +1,43 @@
-# Hi there!  I'm Balaji Mahendra 
+# Balaji Mahendra
 
-## About Me  
-I'm in my junior year **majoring in Artificial Intelligence and Machine Learning**. I enjoy both **web development** and **research**, and I'm still exploring to see which one truly aligns with my passion.  
+## About Me
+I am a third-year undergraduate in Artificial Intelligence and Machine Learning with an interest in building practical machine learning systems.
 
-I am looking for opportunities that provide valuable **hands-on experience**.  
+I focus on taking projects beyond notebooks — from model development to deployment with user-facing interfaces.
 
-## Currently Learning  
-- **JavaScript** – Improving my web development skills  
-- **Diffusion models** – Exploring the use of diffusion models in various Computer Vision tasks  
+---
 
-## What I’m Looking For  
-- Exciting **collaborations** on AI/ML or web development projects  
-- Opportunities that challenge me and help me grow  
-- **Volunteer work** for non-profits where I can contribute my skills  
+## Projects
 
-## Let’s Connect!  
-Feel free to reach out—I'm always open to discussing new ideas and working on impactful projects!  
+### Credit Risk Prediction Web Application
+- Built and deployed a Flask-based ML application to predict loan default risk using repayment behavior  
+- Reduced feature space from 20+ to 5 key inputs to improve usability while maintaining balanced performance  
+- Implemented threshold tuning and rule-based explanations for interpretable predictions  
+- Designed a user-friendly interface with dropdown inputs and real-time results  
 
-[Email](mailto:balajimahendrajakka@gmail.com) 
-[Linkedin](https://www.linkedin.com/in/balajimahendra/) 
-**Discord:** masterofuniverse_
+---
+
+## Currently Learning
+- JavaScript
+- DSA
+
+---
+
+## Interests
+- Machine Learning Engineering  
+- Applied AI systems  
+- Web + ML integration  
+
+---
+
+## Looking For
+- Internship opportunities in ML / software roles  
+- Projects involving real-world data and deployment  
+- Collaboration on applied AI systems  
+
+---
+
+## Contact
+Email: balajimahendrajakka@gmail.com  
+LinkedIn: https://www.linkedin.com/in/balajimahendra/  
+Discord: masterofuniverse_
